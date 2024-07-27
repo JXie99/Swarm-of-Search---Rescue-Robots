@@ -3,7 +3,7 @@
  * Project:       CMSC 341 Project 2 Fall 2021
  * Author:        Johnson Xie 
  *
- * Description:   This file contains the AgItem.cpp
+ * Description:   This file contains the swarm.cpp
  *
  *
  */
