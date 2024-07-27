@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Clion projects after april 15/CMSC341 Project 2/swarm.cpp
+swarm.h
+D:/Clion projects after april 15/CMSC341 Project 2/swarm.h
+
+D:/Clion projects after april 15/CMSC341 Project 2/swarm.h
+iostream
+-
+
